@@ -1,0 +1,84 @@
+.btn-logout {
+  width: 100px;
+  background-color: gold;
+  color: white;
+  font-weight: 500;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border-radius: 20px;
+}
+
+.btn-logout:hover {
+  width: 100px;
+  background-color: darkorange;
+  font-weight: 500;
+  transition: 1s;
+  color: white;
+}
+
+/* style.css */
+.navbar-nav .ds {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+}
+.navbar-nav .ps {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+}
+.navbar-nav .pr {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+}
+.navbar-nav .dr {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+}
+.navbar-nav .pl {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+}
+
+section {
+  padding: 20px;
+  margin: auto;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.kolom {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.kolom .deskripsi {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "comic sans ms";
+  color: #24303d;
+}
+
+.kolom h1 {
+  font-family: "comic sans ms";
+  font-weight: 800;
+  font-size: 50px;
+  margin-bottom: 20px;
+  color: #24303d;
+  width: 100%;
+  line-height: 50px;
+}
+
+.kolom h2 {
+  font-family: "comic sans ms";
+  font-weight: 700;
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: #24303d;
+  width: 100%;
+  line-height: 50px;
+}
